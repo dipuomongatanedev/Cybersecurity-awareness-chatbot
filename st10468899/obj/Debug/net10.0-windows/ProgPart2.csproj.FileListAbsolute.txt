@@ -1,0 +1,42 @@
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2_MarkupCompile.cache
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.g.resources
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.AssemblyInfoInputs.cache
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.AssemblyInfo.cs
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.csproj.CoreCompileInputs.cache
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\bin\Debug\net10.0-windows\ProgPart2.exe
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\bin\Debug\net10.0-windows\ProgPart2.deps.json
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\bin\Debug\net10.0-windows\ProgPart2.runtimeconfig.json
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\bin\Debug\net10.0-windows\ProgPart2.dll
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\bin\Debug\net10.0-windows\ProgPart2.pdb
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.dll
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\refint\ProgPart2.dll
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.pdb
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2.genruntimeconfig.cache
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ref\ProgPart2.dll
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\bin\Debug\net10.0-windows\greetings.wav
+C:\Users\sesid\source\repos\ProgPart2\ProgPart2\obj\Debug\net10.0-windows\ProgPart2_Content.g.cs
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\bin\Debug\net10.0-windows\greetings.wav
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\bin\Debug\net10.0-windows\ProgPart2.exe
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\bin\Debug\net10.0-windows\ProgPart2.deps.json
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\bin\Debug\net10.0-windows\ProgPart2.runtimeconfig.json
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\bin\Debug\net10.0-windows\ProgPart2.dll
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\bin\Debug\net10.0-windows\ProgPart2.pdb
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2_Content.g.cs
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2_MarkupCompile.cache
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.g.resources
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.AssemblyInfoInputs.cache
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.AssemblyInfo.cs
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.csproj.CoreCompileInputs.cache
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.dll
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\refint\ProgPart2.dll
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.pdb
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ProgPart2.genruntimeconfig.cache
+C:\Users\sesid\OneDrive\Documents\ST-10468899 Sesi Mongatane\obj\Debug\net10.0-windows\ref\ProgPart2.dll
